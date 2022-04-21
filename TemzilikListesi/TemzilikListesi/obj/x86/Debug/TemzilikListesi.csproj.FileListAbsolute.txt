@@ -1,0 +1,10 @@
+D:\10CNesne\TemzilikListesi\TemzilikListesi\bin\Debug\TemzilikListesi.exe
+D:\10CNesne\TemzilikListesi\TemzilikListesi\bin\Debug\TemzilikListesi.pdb
+D:\10CNesne\TemzilikListesi\TemzilikListesi\obj\x86\Debug\TemzilikListesi.Form1.resources
+D:\10CNesne\TemzilikListesi\TemzilikListesi\obj\x86\Debug\TemzilikListesi.Properties.Resources.resources
+D:\10CNesne\TemzilikListesi\TemzilikListesi\obj\x86\Debug\TemzilikListesi.csproj.GenerateResource.Cache
+D:\10CNesne\TemzilikListesi\TemzilikListesi\obj\x86\Debug\TemzilikListesi.exe
+D:\10CNesne\TemzilikListesi\TemzilikListesi\obj\x86\Debug\TemzilikListesi.pdb
+D:\10CNesne\TemzilikListesi\TemzilikListesi\obj\x86\Debug\TemzilikListesi.csprojResolveAssemblyReference.cache
+D:\10CNesne\TemzilikListesi\TemzilikListesi\bin\Debug\LocalDataHelper.dll
+D:\10CNesne\TemzilikListesi\TemzilikListesi\bin\Debug\Newtonsoft.Json.dll

@@ -1,0 +1,10 @@
+D:\10CNesne\ÜcgeninAlanı\ÜcgeninAlanı\bin\Debug\ÜcgeninAlanı.exe
+D:\10CNesne\ÜcgeninAlanı\ÜcgeninAlanı\bin\Debug\ÜcgeninAlanı.pdb
+D:\10CNesne\ÜcgeninAlanı\ÜcgeninAlanı\obj\x86\Debug\ÜcgeninAlanı.Form1.resources
+D:\10CNesne\ÜcgeninAlanı\ÜcgeninAlanı\obj\x86\Debug\ÜcgeninAlanı.Properties.Resources.resources
+D:\10CNesne\ÜcgeninAlanı\ÜcgeninAlanı\obj\x86\Debug\ÜcgeninAlanı.csproj.GenerateResource.Cache
+D:\10CNesne\ÜcgeninAlanı\ÜcgeninAlanı\obj\x86\Debug\ÜcgeninAlanı.exe
+D:\10CNesne\ÜcgeninAlanı\ÜcgeninAlanı\obj\x86\Debug\ÜcgeninAlanı.pdb
+D:\10CNesne\ÜcgeninAlanı\ÜcgeninAlanı\obj\x86\Debug\ÜcgeninAlanı.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\Pictures\Desktop\ÜcgeninAlanı\ÜcgeninAlanı\obj\x86\Debug\ÜcgeninAlanı.exe
+C:\Users\Kullanıcı\Pictures\Desktop\ÜcgeninAlanı\ÜcgeninAlanı\obj\x86\Debug\ÜcgeninAlanı.pdb
