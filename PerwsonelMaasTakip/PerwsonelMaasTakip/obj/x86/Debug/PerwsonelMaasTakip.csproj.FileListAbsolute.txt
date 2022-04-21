@@ -1,0 +1,9 @@
+D:\10CNesne\PerwsonelMaasTakip\PerwsonelMaasTakip\bin\Debug\PerwsonelMaasTakip.exe
+D:\10CNesne\PerwsonelMaasTakip\PerwsonelMaasTakip\bin\Debug\PerwsonelMaasTakip.pdb
+D:\10CNesne\PerwsonelMaasTakip\PerwsonelMaasTakip\obj\x86\Debug\PerwsonelMaasTakip.Form1.resources
+D:\10CNesne\PerwsonelMaasTakip\PerwsonelMaasTakip\obj\x86\Debug\PerwsonelMaasTakip.Properties.Resources.resources
+D:\10CNesne\PerwsonelMaasTakip\PerwsonelMaasTakip\obj\x86\Debug\PerwsonelMaasTakip.csproj.GenerateResource.Cache
+D:\10CNesne\PerwsonelMaasTakip\PerwsonelMaasTakip\obj\x86\Debug\PerwsonelMaasTakip.exe
+D:\10CNesne\PerwsonelMaasTakip\PerwsonelMaasTakip\obj\x86\Debug\PerwsonelMaasTakip.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\PerwsonelMaasTakip\PerwsonelMaasTakip\obj\x86\Debug\PerwsonelMaasTakip.exe
+C:\Users\Kullanıcı\Pictures\Desktop\PerwsonelMaasTakip\PerwsonelMaasTakip\obj\x86\Debug\PerwsonelMaasTakip.pdb

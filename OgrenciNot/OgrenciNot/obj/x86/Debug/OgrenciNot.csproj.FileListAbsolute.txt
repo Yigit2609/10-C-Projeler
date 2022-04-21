@@ -1,0 +1,9 @@
+D:\10CNesne\OgrenciNot\OgrenciNot\bin\Debug\OgrenciNot.exe
+D:\10CNesne\OgrenciNot\OgrenciNot\bin\Debug\OgrenciNot.pdb
+D:\10CNesne\OgrenciNot\OgrenciNot\obj\x86\Debug\OgrenciNot.Form1.resources
+D:\10CNesne\OgrenciNot\OgrenciNot\obj\x86\Debug\OgrenciNot.Properties.Resources.resources
+D:\10CNesne\OgrenciNot\OgrenciNot\obj\x86\Debug\OgrenciNot.csproj.GenerateResource.Cache
+D:\10CNesne\OgrenciNot\OgrenciNot\obj\x86\Debug\OgrenciNot.exe
+D:\10CNesne\OgrenciNot\OgrenciNot\obj\x86\Debug\OgrenciNot.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\OgrenciNot\OgrenciNot\obj\x86\Debug\OgrenciNot.exe
+C:\Users\Kullanıcı\Pictures\Desktop\OgrenciNot\OgrenciNot\obj\x86\Debug\OgrenciNot.pdb
