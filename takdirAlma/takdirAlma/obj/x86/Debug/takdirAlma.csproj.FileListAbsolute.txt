@@ -1,0 +1,7 @@
+D:\10CNesne\takdirAlma\takdirAlma\bin\Debug\takdirAlma.exe
+D:\10CNesne\takdirAlma\takdirAlma\bin\Debug\takdirAlma.pdb
+D:\10CNesne\takdirAlma\takdirAlma\obj\x86\Debug\takdirAlma.Form1.resources
+D:\10CNesne\takdirAlma\takdirAlma\obj\x86\Debug\takdirAlma.Properties.Resources.resources
+D:\10CNesne\takdirAlma\takdirAlma\obj\x86\Debug\takdirAlma.csproj.GenerateResource.Cache
+D:\10CNesne\takdirAlma\takdirAlma\obj\x86\Debug\takdirAlma.exe
+D:\10CNesne\takdirAlma\takdirAlma\obj\x86\Debug\takdirAlma.pdb

@@ -1,0 +1,10 @@
+D:\10CNesne\Sınav2Ornek1\Sınav2Ornek1\bin\Debug\Sınav2Ornek1.exe
+D:\10CNesne\Sınav2Ornek1\Sınav2Ornek1\bin\Debug\Sınav2Ornek1.pdb
+D:\10CNesne\Sınav2Ornek1\Sınav2Ornek1\obj\x86\Debug\Sınav2Ornek1.Form1.resources
+D:\10CNesne\Sınav2Ornek1\Sınav2Ornek1\obj\x86\Debug\Sınav2Ornek1.Properties.Resources.resources
+D:\10CNesne\Sınav2Ornek1\Sınav2Ornek1\obj\x86\Debug\Sınav2Ornek1.csproj.GenerateResource.Cache
+D:\10CNesne\Sınav2Ornek1\Sınav2Ornek1\obj\x86\Debug\Sınav2Ornek1.exe
+D:\10CNesne\Sınav2Ornek1\Sınav2Ornek1\obj\x86\Debug\Sınav2Ornek1.pdb
+D:\10CNesne\Sınav2Ornek1\Sınav2Ornek1\obj\x86\Debug\Sınav2Ornek1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\Pictures\Desktop\Sınav2Ornek1\Sınav2Ornek1\obj\x86\Debug\Sınav2Ornek1.exe
+C:\Users\Kullanıcı\Pictures\Desktop\Sınav2Ornek1\Sınav2Ornek1\obj\x86\Debug\Sınav2Ornek1.pdb

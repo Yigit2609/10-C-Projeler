@@ -1,0 +1,6 @@
+D:\10CNesne\sınıflar\sınıflar\bin\Debug\sınıflar.exe
+D:\10CNesne\sınıflar\sınıflar\bin\Debug\sınıflar.pdb
+D:\10CNesne\sınıflar\sınıflar\obj\x86\Debug\sınıflar.exe
+D:\10CNesne\sınıflar\sınıflar\obj\x86\Debug\sınıflar.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\sınıflar\sınıflar\obj\x86\Debug\sınıflar.exe
+C:\Users\Kullanıcı\Pictures\Desktop\sınıflar\sınıflar\obj\x86\Debug\sınıflar.pdb
