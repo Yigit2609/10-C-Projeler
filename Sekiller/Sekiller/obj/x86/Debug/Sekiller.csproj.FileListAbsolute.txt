@@ -1,0 +1,15 @@
+D:\10CNesne\Sekiller\Sekiller\bin\Debug\Sekiller.exe
+D:\10CNesne\Sekiller\Sekiller\bin\Debug\Sekiller.pdb
+D:\10CNesne\Sekiller\Sekiller\obj\x86\Debug\Sekiller.Form1.resources
+D:\10CNesne\Sekiller\Sekiller\obj\x86\Debug\Sekiller.Properties.Resources.resources
+D:\10CNesne\Sekiller\Sekiller\obj\x86\Debug\Sekiller.csproj.GenerateResource.Cache
+D:\10CNesne\Sekiller\Sekiller\obj\x86\Debug\Sekiller.exe
+D:\10CNesne\Sekiller\Sekiller\obj\x86\Debug\Sekiller.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\Sekiller\Sekiller\obj\x86\Debug\Sekiller.exe
+C:\Users\Kullanıcı\Pictures\Desktop\Sekiller\Sekiller\obj\x86\Debug\Sekiller.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\Sekiller\Sekiller\bin\Debug\Sekiller.exe
+C:\Users\Kullanıcı\Pictures\Desktop\Sekiller\Sekiller\bin\Debug\Sekiller.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\Sekiller\Sekiller\obj\x86\Debug\Sekiller.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\Pictures\Desktop\Sekiller\Sekiller\obj\x86\Debug\Sekiller.Form1.resources
+C:\Users\Kullanıcı\Pictures\Desktop\Sekiller\Sekiller\obj\x86\Debug\Sekiller.Properties.Resources.resources
+C:\Users\Kullanıcı\Pictures\Desktop\Sekiller\Sekiller\obj\x86\Debug\Sekiller.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+D:\10CNesne\SayiTahmin\SayiTahmin\bin\Debug\SayiTahmin.exe
+D:\10CNesne\SayiTahmin\SayiTahmin\bin\Debug\SayiTahmin.pdb
+D:\10CNesne\SayiTahmin\SayiTahmin\obj\x86\Debug\SayiTahmin.Form1.resources
+D:\10CNesne\SayiTahmin\SayiTahmin\obj\x86\Debug\SayiTahmin.Properties.Resources.resources
+D:\10CNesne\SayiTahmin\SayiTahmin\obj\x86\Debug\SayiTahmin.csproj.GenerateResource.Cache
+D:\10CNesne\SayiTahmin\SayiTahmin\obj\x86\Debug\SayiTahmin.exe
+D:\10CNesne\SayiTahmin\SayiTahmin\obj\x86\Debug\SayiTahmin.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\SayiTahmin\SayiTahmin\obj\x86\Debug\SayiTahmin.exe
+C:\Users\Kullanıcı\Pictures\Desktop\SayiTahmin\SayiTahmin\obj\x86\Debug\SayiTahmin.pdb

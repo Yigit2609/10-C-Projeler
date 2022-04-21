@@ -1,0 +1,9 @@
+D:\10CNesne\Sinav2Calisma\Sinav2Calisma\bin\Debug\Sinav2Calisma.exe
+D:\10CNesne\Sinav2Calisma\Sinav2Calisma\bin\Debug\Sinav2Calisma.pdb
+D:\10CNesne\Sinav2Calisma\Sinav2Calisma\obj\x86\Debug\Sinav2Calisma.Form1.resources
+D:\10CNesne\Sinav2Calisma\Sinav2Calisma\obj\x86\Debug\Sinav2Calisma.Properties.Resources.resources
+D:\10CNesne\Sinav2Calisma\Sinav2Calisma\obj\x86\Debug\Sinav2Calisma.csproj.GenerateResource.Cache
+D:\10CNesne\Sinav2Calisma\Sinav2Calisma\obj\x86\Debug\Sinav2Calisma.exe
+D:\10CNesne\Sinav2Calisma\Sinav2Calisma\obj\x86\Debug\Sinav2Calisma.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\Sinav2Calisma\Sinav2Calisma\obj\x86\Debug\Sinav2Calisma.exe
+C:\Users\Kullanıcı\Pictures\Desktop\Sinav2Calisma\Sinav2Calisma\obj\x86\Debug\Sinav2Calisma.pdb
