@@ -1,0 +1,16 @@
+D:\10CNesne\MusteriArama\MusteriArama\bin\Debug\MusteriArama.exe
+D:\10CNesne\MusteriArama\MusteriArama\bin\Debug\MusteriArama.pdb
+D:\10CNesne\MusteriArama\MusteriArama\obj\x86\Debug\MusteriArama.Form1.resources
+D:\10CNesne\MusteriArama\MusteriArama\obj\x86\Debug\MusteriArama.Properties.Resources.resources
+D:\10CNesne\MusteriArama\MusteriArama\obj\x86\Debug\MusteriArama.csproj.GenerateResource.Cache
+D:\10CNesne\MusteriArama\MusteriArama\obj\x86\Debug\MusteriArama.exe
+D:\10CNesne\MusteriArama\MusteriArama\obj\x86\Debug\MusteriArama.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\MusteriArama\MusteriArama\obj\x86\Debug\MusteriArama.exe
+C:\Users\Kullanıcı\Pictures\Desktop\MusteriArama\MusteriArama\obj\x86\Debug\MusteriArama.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\klasör\MusteriArama\MusteriArama\obj\x86\Debug\MusteriArama.exe
+C:\Users\Kullanıcı\Pictures\Desktop\klasör\MusteriArama\MusteriArama\obj\x86\Debug\MusteriArama.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\klasör\MusteriArama\MusteriArama\bin\Debug\MusteriArama.exe
+C:\Users\Kullanıcı\Pictures\Desktop\klasör\MusteriArama\MusteriArama\bin\Debug\MusteriArama.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\klasör\MusteriArama\MusteriArama\obj\x86\Debug\MusteriArama.Form1.resources
+C:\Users\Kullanıcı\Pictures\Desktop\klasör\MusteriArama\MusteriArama\obj\x86\Debug\MusteriArama.Properties.Resources.resources
+C:\Users\Kullanıcı\Pictures\Desktop\klasör\MusteriArama\MusteriArama\obj\x86\Debug\MusteriArama.csproj.GenerateResource.Cache

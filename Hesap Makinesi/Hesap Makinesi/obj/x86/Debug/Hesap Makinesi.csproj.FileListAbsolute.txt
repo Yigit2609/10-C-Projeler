@@ -1,0 +1,11 @@
+D:\10CNesne\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe
+D:\10CNesne\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.pdb
+D:\10CNesne\Hesap Makinesi\Hesap Makinesi\obj\x86\Debug\Hesap_Makinesi.Form1.resources
+D:\10CNesne\Hesap Makinesi\Hesap Makinesi\obj\x86\Debug\Hesap_Makinesi.Properties.Resources.resources
+D:\10CNesne\Hesap Makinesi\Hesap Makinesi\obj\x86\Debug\Hesap Makinesi.csproj.GenerateResource.Cache
+D:\10CNesne\Hesap Makinesi\Hesap Makinesi\obj\x86\Debug\Hesap Makinesi.exe
+D:\10CNesne\Hesap Makinesi\Hesap Makinesi\obj\x86\Debug\Hesap Makinesi.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\Hesap Makinesi\Hesap Makinesi\obj\x86\Debug\Hesap Makinesi.exe
+C:\Users\Kullanıcı\Pictures\Desktop\Hesap Makinesi\Hesap Makinesi\obj\x86\Debug\Hesap Makinesi.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\klasör\Hesap Makinesi\Hesap Makinesi\obj\x86\Debug\Hesap Makinesi.exe
+C:\Users\Kullanıcı\Pictures\Desktop\klasör\Hesap Makinesi\Hesap Makinesi\obj\x86\Debug\Hesap Makinesi.pdb

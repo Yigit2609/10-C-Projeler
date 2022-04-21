@@ -1,0 +1,9 @@
+D:\10CNesne\Kasa\Kasa\bin\Debug\Kasa.exe
+D:\10CNesne\Kasa\Kasa\bin\Debug\Kasa.pdb
+D:\10CNesne\Kasa\Kasa\obj\x86\Debug\Kasa.Form1.resources
+D:\10CNesne\Kasa\Kasa\obj\x86\Debug\Kasa.Properties.Resources.resources
+D:\10CNesne\Kasa\Kasa\obj\x86\Debug\Kasa.csproj.GenerateResource.Cache
+D:\10CNesne\Kasa\Kasa\obj\x86\Debug\Kasa.exe
+D:\10CNesne\Kasa\Kasa\obj\x86\Debug\Kasa.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\Kasa\Kasa\obj\x86\Debug\Kasa.exe
+C:\Users\Kullanıcı\Pictures\Desktop\Kasa\Kasa\obj\x86\Debug\Kasa.pdb
