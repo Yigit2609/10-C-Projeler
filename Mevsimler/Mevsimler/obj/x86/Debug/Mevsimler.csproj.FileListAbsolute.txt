@@ -1,0 +1,14 @@
+D:\10CNesne\Mevsimler\Mevsimler\bin\Debug\Mevsimler.exe
+D:\10CNesne\Mevsimler\Mevsimler\bin\Debug\Mevsimler.pdb
+D:\10CNesne\Mevsimler\Mevsimler\obj\x86\Debug\Mevsimler.Form1.resources
+D:\10CNesne\Mevsimler\Mevsimler\obj\x86\Debug\Mevsimler.Properties.Resources.resources
+D:\10CNesne\Mevsimler\Mevsimler\obj\x86\Debug\Mevsimler.csproj.GenerateResource.Cache
+D:\10CNesne\Mevsimler\Mevsimler\obj\x86\Debug\Mevsimler.exe
+D:\10CNesne\Mevsimler\Mevsimler\obj\x86\Debug\Mevsimler.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\Mevsimler\Mevsimler\obj\x86\Debug\Mevsimler.exe
+C:\Users\Kullanıcı\Pictures\Desktop\Mevsimler\Mevsimler\obj\x86\Debug\Mevsimler.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\Mevsimler\Mevsimler\bin\Debug\Mevsimler.exe
+C:\Users\Kullanıcı\Pictures\Desktop\Mevsimler\Mevsimler\bin\Debug\Mevsimler.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\Mevsimler\Mevsimler\obj\x86\Debug\Mevsimler.Form1.resources
+C:\Users\Kullanıcı\Pictures\Desktop\Mevsimler\Mevsimler\obj\x86\Debug\Mevsimler.Properties.Resources.resources
+C:\Users\Kullanıcı\Pictures\Desktop\Mevsimler\Mevsimler\obj\x86\Debug\Mevsimler.csproj.GenerateResource.Cache

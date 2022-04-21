@@ -1,0 +1,9 @@
+D:\10CNesne\Kuvvet10\Kuvvet10\bin\Debug\Kuvvet10.exe
+D:\10CNesne\Kuvvet10\Kuvvet10\bin\Debug\Kuvvet10.pdb
+D:\10CNesne\Kuvvet10\Kuvvet10\obj\x86\Debug\Kuvvet10.Form1.resources
+D:\10CNesne\Kuvvet10\Kuvvet10\obj\x86\Debug\Kuvvet10.Properties.Resources.resources
+D:\10CNesne\Kuvvet10\Kuvvet10\obj\x86\Debug\Kuvvet10.csproj.GenerateResource.Cache
+D:\10CNesne\Kuvvet10\Kuvvet10\obj\x86\Debug\Kuvvet10.exe
+D:\10CNesne\Kuvvet10\Kuvvet10\obj\x86\Debug\Kuvvet10.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\Kuvvet10\Kuvvet10\obj\x86\Debug\Kuvvet10.exe
+C:\Users\Kullanıcı\Pictures\Desktop\Kuvvet10\Kuvvet10\obj\x86\Debug\Kuvvet10.pdb
