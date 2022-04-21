@@ -1,0 +1,14 @@
+D:\10CNesne\Ehliyet\Ehliyet\bin\Debug\Ehliyet.exe
+D:\10CNesne\Ehliyet\Ehliyet\bin\Debug\Ehliyet.pdb
+D:\10CNesne\Ehliyet\Ehliyet\obj\x86\Debug\Ehliyet.Form1.resources
+D:\10CNesne\Ehliyet\Ehliyet\obj\x86\Debug\Ehliyet.Properties.Resources.resources
+D:\10CNesne\Ehliyet\Ehliyet\obj\x86\Debug\Ehliyet.csproj.GenerateResource.Cache
+D:\10CNesne\Ehliyet\Ehliyet\obj\x86\Debug\Ehliyet.exe
+D:\10CNesne\Ehliyet\Ehliyet\obj\x86\Debug\Ehliyet.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\Ehliyet\Ehliyet\obj\x86\Debug\Ehliyet.exe
+C:\Users\Kullanıcı\Pictures\Desktop\Ehliyet\Ehliyet\obj\x86\Debug\Ehliyet.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\Ehliyet\Ehliyet\bin\Debug\Ehliyet.exe
+C:\Users\Kullanıcı\Pictures\Desktop\Ehliyet\Ehliyet\bin\Debug\Ehliyet.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\Ehliyet\Ehliyet\obj\x86\Debug\Ehliyet.Form1.resources
+C:\Users\Kullanıcı\Pictures\Desktop\Ehliyet\Ehliyet\obj\x86\Debug\Ehliyet.Properties.Resources.resources
+C:\Users\Kullanıcı\Pictures\Desktop\Ehliyet\Ehliyet\obj\x86\Debug\Ehliyet.csproj.GenerateResource.Cache

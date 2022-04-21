@@ -1,0 +1,7 @@
+D:\10CNesne\DosyaTuruEslestirme\DosyaTuruEslestirme\bin\Debug\DosyaTuruEslestirme.exe
+D:\10CNesne\DosyaTuruEslestirme\DosyaTuruEslestirme\bin\Debug\DosyaTuruEslestirme.pdb
+D:\10CNesne\DosyaTuruEslestirme\DosyaTuruEslestirme\obj\x86\Debug\DosyaTuruEslestirme.Form1.resources
+D:\10CNesne\DosyaTuruEslestirme\DosyaTuruEslestirme\obj\x86\Debug\DosyaTuruEslestirme.Properties.Resources.resources
+D:\10CNesne\DosyaTuruEslestirme\DosyaTuruEslestirme\obj\x86\Debug\DosyaTuruEslestirme.csproj.GenerateResource.Cache
+D:\10CNesne\DosyaTuruEslestirme\DosyaTuruEslestirme\obj\x86\Debug\DosyaTuruEslestirme.exe
+D:\10CNesne\DosyaTuruEslestirme\DosyaTuruEslestirme\obj\x86\Debug\DosyaTuruEslestirme.pdb

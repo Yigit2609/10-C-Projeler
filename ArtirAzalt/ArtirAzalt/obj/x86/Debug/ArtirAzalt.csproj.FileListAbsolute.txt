@@ -1,0 +1,9 @@
+D:\10CNesne\ArtirAzalt\ArtirAzalt\obj\x86\Debug\ArtirAzalt.Form1.resources
+D:\10CNesne\ArtirAzalt\ArtirAzalt\obj\x86\Debug\ArtirAzalt.Properties.Resources.resources
+D:\10CNesne\ArtirAzalt\ArtirAzalt\obj\x86\Debug\ArtirAzalt.csproj.GenerateResource.Cache
+D:\10CNesne\ArtirAzalt\ArtirAzalt\bin\Debug\ArtirAzalt.exe
+D:\10CNesne\ArtirAzalt\ArtirAzalt\bin\Debug\ArtirAzalt.pdb
+D:\10CNesne\ArtirAzalt\ArtirAzalt\obj\x86\Debug\ArtirAzalt.exe
+D:\10CNesne\ArtirAzalt\ArtirAzalt\obj\x86\Debug\ArtirAzalt.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\ArtirAzalt\ArtirAzalt\obj\x86\Debug\ArtirAzalt.exe
+C:\Users\Kullanıcı\Pictures\Desktop\ArtirAzalt\ArtirAzalt\obj\x86\Debug\ArtirAzalt.pdb

@@ -1,0 +1,8 @@
+D:\10CNesne\HataAyiklama\HataAyiklama\bin\Debug\HataAyiklama.exe
+D:\10CNesne\HataAyiklama\HataAyiklama\bin\Debug\HataAyiklama.pdb
+D:\10CNesne\HataAyiklama\HataAyiklama\obj\x86\Debug\HataAyiklama.Form1.resources
+D:\10CNesne\HataAyiklama\HataAyiklama\obj\x86\Debug\HataAyiklama.Properties.Resources.resources
+D:\10CNesne\HataAyiklama\HataAyiklama\obj\x86\Debug\HataAyiklama.csproj.GenerateResource.Cache
+D:\10CNesne\HataAyiklama\HataAyiklama\obj\x86\Debug\HataAyiklama.exe
+D:\10CNesne\HataAyiklama\HataAyiklama\obj\x86\Debug\HataAyiklama.pdb
+D:\10CNesne\HataAyiklama\HataAyiklama\obj\x86\Debug\HataAyiklama.Ata.resources
