@@ -1,0 +1,9 @@
+D:\10CNesne\OgrenciDurumu\OgrenciDurumu\bin\Debug\OgrenciDurumu.exe
+D:\10CNesne\OgrenciDurumu\OgrenciDurumu\bin\Debug\OgrenciDurumu.pdb
+D:\10CNesne\OgrenciDurumu\OgrenciDurumu\obj\x86\Debug\OgrenciDurumu.Form1.resources
+D:\10CNesne\OgrenciDurumu\OgrenciDurumu\obj\x86\Debug\OgrenciDurumu.Properties.Resources.resources
+D:\10CNesne\OgrenciDurumu\OgrenciDurumu\obj\x86\Debug\OgrenciDurumu.csproj.GenerateResource.Cache
+D:\10CNesne\OgrenciDurumu\OgrenciDurumu\obj\x86\Debug\OgrenciDurumu.exe
+D:\10CNesne\OgrenciDurumu\OgrenciDurumu\obj\x86\Debug\OgrenciDurumu.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\OgrenciDurumu\OgrenciDurumu\obj\x86\Debug\OgrenciDurumu.exe
+C:\Users\Kullanıcı\Pictures\Desktop\OgrenciDurumu\OgrenciDurumu\obj\x86\Debug\OgrenciDurumu.pdb

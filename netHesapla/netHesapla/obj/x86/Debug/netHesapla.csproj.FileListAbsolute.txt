@@ -1,0 +1,11 @@
+D:\10CNesne\netHesapla\netHesapla\bin\Debug\netHesapla.exe
+D:\10CNesne\netHesapla\netHesapla\bin\Debug\netHesapla.pdb
+D:\10CNesne\netHesapla\netHesapla\obj\x86\Debug\netHesapla.Form1.resources
+D:\10CNesne\netHesapla\netHesapla\obj\x86\Debug\netHesapla.Properties.Resources.resources
+D:\10CNesne\netHesapla\netHesapla\obj\x86\Debug\netHesapla.csproj.GenerateResource.Cache
+D:\10CNesne\netHesapla\netHesapla\obj\x86\Debug\netHesapla.exe
+D:\10CNesne\netHesapla\netHesapla\obj\x86\Debug\netHesapla.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\netHesapla\netHesapla\obj\x86\Debug\netHesapla.exe
+C:\Users\Kullanıcı\Pictures\Desktop\netHesapla\netHesapla\obj\x86\Debug\netHesapla.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\klasör\netHesapla\netHesapla\obj\x86\Debug\netHesapla.exe
+C:\Users\Kullanıcı\Pictures\Desktop\klasör\netHesapla\netHesapla\obj\x86\Debug\netHesapla.pdb

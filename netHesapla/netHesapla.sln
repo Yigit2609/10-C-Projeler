@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netHesapla", "netHesapla\netHesapla.csproj", "{1C047428-5E61-422F-A45E-455AE8A59B6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C047428-5E61-422F-A45E-455AE8A59B6A}.Debug|x86.ActiveCfg = Debug|x86
+		{1C047428-5E61-422F-A45E-455AE8A59B6A}.Debug|x86.Build.0 = Debug|x86
+		{1C047428-5E61-422F-A45E-455AE8A59B6A}.Release|x86.ActiveCfg = Release|x86
+		{1C047428-5E61-422F-A45E-455AE8A59B6A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
