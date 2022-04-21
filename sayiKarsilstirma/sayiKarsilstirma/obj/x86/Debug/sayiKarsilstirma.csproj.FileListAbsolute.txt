@@ -1,0 +1,14 @@
+D:\10CNesne\sayiKarsilstirma\sayiKarsilstirma\bin\Debug\sayiKarsilstirma.exe
+D:\10CNesne\sayiKarsilstirma\sayiKarsilstirma\bin\Debug\sayiKarsilstirma.pdb
+D:\10CNesne\sayiKarsilstirma\sayiKarsilstirma\obj\x86\Debug\sayiKarsilstirma.Form1.resources
+D:\10CNesne\sayiKarsilstirma\sayiKarsilstirma\obj\x86\Debug\sayiKarsilstirma.Properties.Resources.resources
+D:\10CNesne\sayiKarsilstirma\sayiKarsilstirma\obj\x86\Debug\sayiKarsilstirma.csproj.GenerateResource.Cache
+D:\10CNesne\sayiKarsilstirma\sayiKarsilstirma\obj\x86\Debug\sayiKarsilstirma.exe
+D:\10CNesne\sayiKarsilstirma\sayiKarsilstirma\obj\x86\Debug\sayiKarsilstirma.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\sayiKarsilstirma\sayiKarsilstirma\obj\x86\Debug\sayiKarsilstirma.exe
+C:\Users\Kullanıcı\Pictures\Desktop\sayiKarsilstirma\sayiKarsilstirma\obj\x86\Debug\sayiKarsilstirma.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\sayiKarsilstirma\sayiKarsilstirma\bin\Debug\sayiKarsilstirma.exe
+C:\Users\Kullanıcı\Pictures\Desktop\sayiKarsilstirma\sayiKarsilstirma\bin\Debug\sayiKarsilstirma.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\sayiKarsilstirma\sayiKarsilstirma\obj\x86\Debug\sayiKarsilstirma.Form1.resources
+C:\Users\Kullanıcı\Pictures\Desktop\sayiKarsilstirma\sayiKarsilstirma\obj\x86\Debug\sayiKarsilstirma.Properties.Resources.resources
+C:\Users\Kullanıcı\Pictures\Desktop\sayiKarsilstirma\sayiKarsilstirma\obj\x86\Debug\sayiKarsilstirma.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+D:\10CNesne\ProjeTakip\ProjeTakip\bin\Debug\ProjeTakip.exe
+D:\10CNesne\ProjeTakip\ProjeTakip\bin\Debug\ProjeTakip.pdb
+D:\10CNesne\ProjeTakip\ProjeTakip\obj\x86\Debug\ProjeTakip.Form1.resources
+D:\10CNesne\ProjeTakip\ProjeTakip\obj\x86\Debug\ProjeTakip.Properties.Resources.resources
+D:\10CNesne\ProjeTakip\ProjeTakip\obj\x86\Debug\ProjeTakip.csproj.GenerateResource.Cache
+D:\10CNesne\ProjeTakip\ProjeTakip\obj\x86\Debug\ProjeTakip.exe
+D:\10CNesne\ProjeTakip\ProjeTakip\obj\x86\Debug\ProjeTakip.pdb
+D:\10CNesne\ProjeTakip\ProjeTakip\bin\Debug\LocalDataHelper.dll
+D:\10CNesne\ProjeTakip\ProjeTakip\bin\Debug\Newtonsoft.Json.dll
+D:\10CNesne\ProjeTakip\ProjeTakip\obj\x86\Debug\ProjeTakip.csprojResolveAssemblyReference.cache
