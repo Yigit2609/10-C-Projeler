@@ -1,0 +1,14 @@
+D:\10CNesne\ToplaCarp\ToplaCarp\bin\Debug\ToplaCarp.exe
+D:\10CNesne\ToplaCarp\ToplaCarp\bin\Debug\ToplaCarp.pdb
+D:\10CNesne\ToplaCarp\ToplaCarp\obj\x86\Debug\ToplaCarp.Form1.resources
+D:\10CNesne\ToplaCarp\ToplaCarp\obj\x86\Debug\ToplaCarp.Properties.Resources.resources
+D:\10CNesne\ToplaCarp\ToplaCarp\obj\x86\Debug\ToplaCarp.csproj.GenerateResource.Cache
+D:\10CNesne\ToplaCarp\ToplaCarp\obj\x86\Debug\ToplaCarp.exe
+D:\10CNesne\ToplaCarp\ToplaCarp\obj\x86\Debug\ToplaCarp.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\ToplaCarp\ToplaCarp\obj\x86\Debug\ToplaCarp.exe
+C:\Users\Kullanıcı\Pictures\Desktop\ToplaCarp\ToplaCarp\obj\x86\Debug\ToplaCarp.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\ToplaCarp\ToplaCarp\bin\Debug\ToplaCarp.exe
+C:\Users\Kullanıcı\Pictures\Desktop\ToplaCarp\ToplaCarp\bin\Debug\ToplaCarp.pdb
+C:\Users\Kullanıcı\Pictures\Desktop\ToplaCarp\ToplaCarp\obj\x86\Debug\ToplaCarp.Form1.resources
+C:\Users\Kullanıcı\Pictures\Desktop\ToplaCarp\ToplaCarp\obj\x86\Debug\ToplaCarp.Properties.Resources.resources
+C:\Users\Kullanıcı\Pictures\Desktop\ToplaCarp\ToplaCarp\obj\x86\Debug\ToplaCarp.csproj.GenerateResource.Cache
